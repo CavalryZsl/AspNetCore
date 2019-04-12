@@ -8,9 +8,10 @@
     <MicrosoftExtensionsConfigurationBinderPackageVersion>2.2.0</MicrosoftExtensionsConfigurationBinderPackageVersion>
     <MicrosoftExtensionsConfigurationEnvironmentVariablesPackageVersion>2.2.0</MicrosoftExtensionsConfigurationEnvironmentVariablesPackageVersion>
     <MicrosoftExtensionsConfigurationKeyPerFilePackageVersion>2.2.0</MicrosoftExtensionsConfigurationKeyPerFilePackageVersion>
-    <MicrosoftExtensionsLoggingAzureAppServicesPackageVersion>2.2.0</MicrosoftExtensionsLoggingAzureAppServicesPackageVersion>
-    
+
+
     <SystemDataSqlClientPackageVersion>4.6.0</SystemDataSqlClientPackageVersion>
+    <MicrosoftExtensionsLoggingAzureAppServicesPackageVersion>2.2.5-servicing-19212-04</MicrosoftExtensionsLoggingAzureAppServicesPackageVersion>
   </PropertyGroup>
 
   <PropertyGroup>
